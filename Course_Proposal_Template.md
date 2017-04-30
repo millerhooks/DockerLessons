@@ -1,4 +1,8 @@
-#Egghead.io Course Proposal Template
+# __Egghead.io Course Proposal Template__
+=====================================
+
+[TOC]
+
 as a developer, I want to build a basic example application with React using Redux
 
 ## Goals
