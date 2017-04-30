@@ -7,7 +7,7 @@ __Course Outline__
 * [1. Docker Basics](1-Docker_Basics)
     * [1.1. What is Docker](1-Docker_Basics/1-What_Is_Docker) [TBD]
     * [1.2. Docker Installation](1-Docker_Basics/2-Docker_Installation) [TBD]
-    * [1.3. Running Your First Container](1-Docker_Basics/3-Running_Your_First_Container)
+    * [1.3. Serve a Rich Web Appplication with Docker](1-Docker_Basics/3-Serve_a_Rich_Web_Application_with_Docker)
         * Get Something
         * Search and Destroy
         * Routing Ports
