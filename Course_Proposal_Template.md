@@ -1,13 +1,13 @@
 #Egghead.io Course Proposal Template
 as a developer, I want to build a basic example application with React using Redux
 
-##Goals
+## Goals
 To build a modestly complex application start to finish with React, Redux, and redux-saga
 
 Demonstrate the concepts incrementally avoiding “draw the f’ing owl” so that the student gets a strong understanding of
 how to use this toolset in real life.
 
-##Summary
+## Summary
 In this course we will build an image gallery application that connects to the Flickr API to load its data. We are going
  to start from an empty directory, and build the application incrementally, discussing the problems that we might
  encounter along the way. The image gallery is a simple application, but it even the simplest applications need to deal
@@ -15,7 +15,7 @@ In this course we will build an image gallery application that connects to the F
   communication, we will learn about redux-saga, a wonderful library that uses JavaScript generator functions to make
   complex async application “side effects” a pleasure to construct.
 
-##Lesson Titles
+## Lesson Titles
 * **React and Redux Image Gallery Project Setup and Automation**
     - We will learn how to set up basic automation that will allow us to use ES6 through babel and serve our React
     application for local development.
