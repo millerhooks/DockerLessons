@@ -4,15 +4,16 @@ __Container Registry__
 __Table of Contents__
 ---------------------
 
-* [A Stitch in Time](#a-stitch-in-time)
-* [Our First Monster](#our-first-monster)
-* [A Little Navigation](#a-little-navigation)
-  * [Directory Listing](#directory-listing)
-* [WORKDIR, You love it.](#workdir-you-love-it)
-* [Our final Dockerfile](#our-final-dockerfile)
-* [Build and Run](#build-and-run)
-* [Spiffing Up Webserver.sh](#spiffing-up-webserversh)
-* [Fin](#fin)
+* [Lesson Objectives](#lesson-objectives)
+* [Let's Make a Slack Clone!](#lets-make-a-slack-clone)
+* [Run it!](#run-it)
+   * [Oooooh](#oooooh)
+   * [Aaaaah!](#aaaaah)
+* [Make Your Whale Go Paleo](#make-your-whale-go-paleo)
+* [Set Them Free](#set-them-free)
+   * [Pushed a Thing](#pushed-a-thing)
+* [Adios](#adios)
+
 
 ## Lesson Objectives
 In this lesson we'll address pushing Docker images to DockerHub as well as alternative private registries. To start you

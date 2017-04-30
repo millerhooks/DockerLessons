@@ -4,7 +4,6 @@ __Container Orchestration__
 __Table of Contents__
 ---------------------
 
-* [<strong>Table of Contents</strong>](#table-of-contents)
 * [Plucked from the Clouds](#plucked-from-the-clouds)
 * [Great Success!](#great-success)
   * [Secure Chats](#secure-chats)
