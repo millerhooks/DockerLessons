@@ -12,6 +12,8 @@ services:
 
   chat:
     build: ./compose/react-chat
+    image: chat
+    container_name: chat
     depends_on:
       - mongo
     links:
