@@ -2,6 +2,7 @@ version: '2'
 services:
   nginx:
     image: millerhooks/eh-nginx:0.1
+    container_name: nginx
     ports:
       - "80:80"
       - "443:443"
@@ -9,6 +10,8 @@ services:
       - chat
     volumes:
       - ./compose/nginx/conf.d:/etc/nginx/conf.d
+    labels:
+      linked_to: "chat"
 
   chat:
     build: ./compose/react-chat
@@ -20,6 +23,9 @@ services:
       - mongo
     ports:
       - "3000"
+    labels:
+      linked_to: "mongo"
 
   mongo:
     image: mongo
+    container_name: mongo
