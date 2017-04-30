@@ -2,8 +2,15 @@ __Container Orchestration__
 ===========================
 
 __Table of Contents__
+=====================
 
-[TOC]
+* [<strong>Container Orchestration</strong>](#container-orchestration)
+   * [<strong>Table of Contents</strong>](#table-of-contents)
+      * [Plucked from the Clouds](#plucked-from-the-clouds)
+      * [Great Success!](#great-success)
+         * [Secure Chats](#secure-chats)
+      * [Scale it Up](#scale-it-up)
+         * [Scale Party!](#scale-party)
 
 ## Plucked from the Clouds
 I know you've been scared this whole time you'd be trapped in bash land forever. Good news! While a little bash

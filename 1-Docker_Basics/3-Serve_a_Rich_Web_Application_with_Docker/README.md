@@ -2,8 +2,23 @@ __Serve a Rich Web Appplication with Docker__
 =============================================
 
 __Table of Contents__
+=====================
 
-[TOC]
+* [<strong>Serve a Rich Web Appplication with Docker</strong>](#serve-a-rich-web-appplication-with-docker)
+      * [Goal of this Lesson](#goal-of-this-lesson)
+      * [Before We Start](#before-we-start)
+      * [Pull An Image From DockerHub](#pull-an-image-from-dockerhub)
+      * [Search and Destroy](#search-and-destroy)
+      * [Routing Ports](#routing-ports)
+         * [Nginx Homepage](#nginx-homepage)
+      * [Go Inside](#go-inside)
+         * [Your First Website](#your-first-website)
+      * [Lets Run Random Code from the Internet!](#lets-run-random-code-from-the-internet)
+         * [Some React Demos](#some-react-demos)
+      * [You Can't Break It](#you-cant-break-it)
+      * [Get Assets Out of the Box](#get-assets-out-of-the-box)
+      * [Docker's Little Helper](#dockers-little-helper)
+      * [The End... or is it?](#the-end-or-is-it)
 
 ## Goal of this Lesson
 In this lesson we are going to show you the very basics that are needed to run any Docker container. This includes

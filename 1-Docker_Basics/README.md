@@ -1,8 +1,8 @@
-__1. Docker Basics <Miller Hooks | miller@nicehou.se>__
+__1. Docker Basics__
+====================
 
---------
-
-__Lesson Outline__
+__Table of Contents__
+=====================
 
 * [1.1. What is Docker](1-What_Is_Docker) [TBD]
 * [1.2. Docker Installation](2-Docker_Installation) [TBD]

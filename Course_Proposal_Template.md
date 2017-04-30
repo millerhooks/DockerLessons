@@ -1,7 +1,12 @@
 # __Egghead.io Course Proposal Template__
 
+Table of Contents
+=================
 
-[TOC]
+* [<strong>Egghead.io Course Proposal Template</strong>](#eggheadio-course-proposal-template)
+      * [Goals](#goals)
+      * [Summary](#summary)
+      * [Lesson Titles](#lesson-titles)
 
 as a developer, I want to build a basic example application with React using Redux
 
