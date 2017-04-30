@@ -36,7 +36,7 @@ __Table of Contents__
     * [Let's Make a Slack Clone!](5-The_Container_Registry/#lets-make-a-slack-clone)
     * [Run it!](5-The_Container_Registry/#run-it)
         * [Oooooh](5-The_Container_Registry/#oooooh)
-        * [Aaaaah!]5-The_Container_Registry/(#aaaaah)
+        * [Aaaaah!](5-The_Container_Registry/#aaaaah)
     * [Make Your Whale Go Paleo](5-The_Container_Registry/#make-your-whale-go-paleo)
     * [Set Them Free](5-The_Container_Registry/#set-them-free)
         * [Pushed a Thing](5-The_Container_Registry/#pushed-a-thing)
