@@ -1,13 +1,12 @@
 __Docker Installation__
 =======================
 
-Table of Contents
-=================
+__Table of Contents__
+---------------------
 
-* [<strong>Docker Installation</strong>](#docker-installation)
-      * [OSX](#osx)
-      * [Windows](#windows)
-      * [Linux](#linux)
+* [OSX](#osx)
+* [Windows](#windows)
+* [Linux](#linux)
 
 This section TBD. Real content starts in section [3 - Running Your First Container](../3-Running_Your_First_Container)
 
