@@ -10,6 +10,8 @@ services:
       - chat
     volumes:
       - ./compose/nginx/conf.d:/etc/nginx/conf.d
+    depends_on:
+      - chat
     labels:
       linked_to: "chat"
 

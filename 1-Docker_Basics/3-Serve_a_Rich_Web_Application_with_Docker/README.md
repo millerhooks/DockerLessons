@@ -4,6 +4,22 @@ __Serve a Rich Web Appplication with Docker__
 __Table of Contents__
 ---------------------
 
+#!/bin/bash
+if [[ "$1" = "start" ]]; then
+        echo "Running Nginx Webserver"
+        docker run -d \
+                -p "8888:80" \
+                -v "$PWD/src:/usr/share/nginx/html" \
+                -v "$PWD/conf/nginx/default.conf:/etc/nginx/conf.d/default.conf" \
+                -v "$PWD/conf/nginx/nginx.conf:/etc/nginx/nginx.conf" \
+                nginx
+
+        NAME=`docker ps | awk '{print $1, $2, $NF}' | grep nginx | awk '{print $NF}'`
+        echo $NAME
+        echo "Started Container $NAME. Execing Container TTY"
+        docker exec -it $NAME /bin/bash
+fi
+
 * [Goal of this Lesson](#goal-of-this-lesson)
 * [Before We Start](#before-we-start)
 * [Pull An Image From DockerHub](#pull-an-image-from-dockerhub)
